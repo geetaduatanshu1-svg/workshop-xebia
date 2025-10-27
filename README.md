@@ -1,2 +1,2 @@
-# workshop-xebec
+# workshop-xebia
 learning about GitHub
